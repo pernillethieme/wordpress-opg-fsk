@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+ Theme Name:   Child of twentyseventeen
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  child-of-twentyseventeen
+ Author:       Pernille Thieme
+ Author URI:   http://example.com
+ Template:     twentyseventeen
+ Version:      1.0.0
+*/
+ 
+/*den vigtigeste er template, den skal være der. de andre behøver ikke være der */
+
+.site-footer {
+    border-top: 1px solid "#eee;
+}
